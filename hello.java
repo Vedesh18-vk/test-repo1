@@ -1,7 +1,7 @@
-public class Main
+public class Main #dev2
 {
-	public static void main()
+	public static void main() #dev2
 	{
 		System.out.println("Bannu"`)
 	}
-}
+} # dev2
