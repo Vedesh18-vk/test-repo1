@@ -1,7 +1,8 @@
-class hello
-{\ #dev2
+
+{\
 public static void main()
 {
- System.out.prinln();
- 
+ System.out.println();
+
+
  }

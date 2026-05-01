@@ -1,4 +1,6 @@
-class hi{ #dev2
+
+class hi{
 public static void ()
-{ #dev2
-("Hello");
+{
+SOP("Hello");
+
